@@ -59,7 +59,7 @@ UMC Japan
 
 Description *** PICTURE
 
-Rise of Nations is a mod lovingly made by the Hoi4 Community, for the Hoi4 Community. It will allow you to play through the last century of world history. We will be releasing one start date per update. Each Start Date will have the following: 4 Politicians (One Per Ideology Group), Order of Battle (As Accurate as Possible), 7 Focus Trees at the very minumum (One Per Major Country). The Tech Tree Spans from 1900 till the present allowing for either a continues 100 year long game, or a short 5-10 year long war depending on your play style.
+Rise of Nations is a mod lovingly made by the Hoi4 Community, for the Hoi4 Community. It will allow you to play through the last century of world history. We will be releasing one start date per update. Each Start Date will have the following: 4 Politicians (One Per Ideology Group), Order of Battle (As Accurate as Possible), 7 Focus Trees at the very minumum (One Per Major Country). The Tech Tree Spans from 1900 till the present allowing for either a contious 100 year long game, or a short 5-10 year long war depending on your play style.
 
 Features *** PICTURE
 - 1910 Start Date
@@ -106,3 +106,9 @@ The Start Dates are currently being worked on, they will be added one at a time 
 
 2) OMG YOU STOLE STUFF FROM OTHER MODS!!
 Permission has been granted from the developers of other mods, and they have been duly credited in the description. We are not competing with any other mods, as we are a timeline expansion mod.
+
+3) HOW DO I CHANGE TO THE NEXT ERA FOCUS TREES?
+Focus Trees will be reloaded automatically by event.
+
+4) I CAN'T CHANGE SUCH AND SUCH LAW!
+If you can't change a law you either do not meet the requirements, the law changes automatically by event, or it hasn't been implemented yet.
