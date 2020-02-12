@@ -117,5 +117,8 @@ Focus Trees will be reloaded automatically by event.
 4) I CAN'T CHANGE SUCH AND SUCH LAW!
 If you can't change a law you either do not meet the requirements, the law changes automatically by event, or it hasn't been implemented yet.
 
-5) OMG RISE OF NATIONS IS THE NAME OF A GAME!
+5) MANDARIN CHINESE TRANSLATION WHEN?
+Due to the massive amount of work to be done to bring this project to completion, any translation that gets done, will be done by the community. We have enough on our hands.
+
+6) OMG RISE OF NATIONS IS THE NAME OF A GAME!
 [url=https://en.wikipedia.org/wiki/Fair_use[/url]
